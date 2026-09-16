@@ -15,10 +15,10 @@
 
 ## 🔧 What I'm building
 
-- **[FlowMatrix](https://github.com/j26219096-prog/flowmatrix-pipeline)** — End-to-end e-commerce ELT pipeline (Kafka → PySpark → Airflow + dbt → Neon PostgreSQL → [Live Streamlit dashboard](https://flowmarics.streamlit.app))
-- **[Weather ETL Dashboard](https://github.com/j26219096-prog/weather-etl-dashboard)** — Automated ETL capturing live weather & AQI data across 5 global cities · [Live](https://j26219096-prog.github.io/weather-etl-dashboard/)
-- **[Real-Time 3D Asset Pipeline](https://github.com/j26219096-prog/Real-Time-3D-Asset-Data-Pipeline-Serving-API)** — FastAPI serving layer with thread-safe caching for binary 3D assets · [Live](https://j26219096-prog.github.io/Real-Time-3D-Asset-Data-Pipeline-Serving-API/)
-- **[Kisan Sahayak](https://github.com/j26219096-prog/Kisan-Sahayak)** — Multilingual AI agricultural assistant (Tamil · Hindi · English) — AI For Bharat Hackathon
+- **[FlowMatrix](https://github.com/jawahar-data/flowmatrix-pipeline)** — End-to-end e-commerce ELT pipeline (Kafka → PySpark → Airflow + dbt → Neon PostgreSQL → [Live Streamlit dashboard](https://flowmarics.streamlit.app))
+- **[Weather ETL Dashboard](https://github.com/jawahar-data/weather-etl-dashboard)** — Automated ETL capturing live weather & AQI data across 5 global cities · [Live](https://jawahar-data.github.io/weather-etl-dashboard/)
+- **[Real-Time 3D Asset Pipeline](https://github.com/jawahar-data/Real-Time-3D-Asset-Data-Pipeline-Serving-API)** — FastAPI serving layer with thread-safe caching for binary 3D assets · [Live](https://jawahar-data.github.io/Real-Time-3D-Asset-Data-Pipeline-Serving-API/)
+- **[Kisan Sahayak](https://github.com/jawahar-data/Kisan-Sahayak)** — Multilingual AI agricultural assistant (Tamil · Hindi · English) — AI For Bharat Hackathon
 
 ---
 
